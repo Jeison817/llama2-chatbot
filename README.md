@@ -59,6 +59,13 @@ print(preguntar("¿Qué es la inteligencia artificial?"))
 
 ---
 
+## 🖼️ Demo
+
+![Demo 1](assets/demo1.png)
+![Demo 2](assets/demo2.png)
+![Demo 3](assets/demo3.png)
+![Demo 4](assets/demo4.png)
+
 ## 🔐 Autenticación
 
 Para usar el modelo necesitas un token de HuggingFace:
