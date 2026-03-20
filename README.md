@@ -35,7 +35,7 @@ Usuario escribe → Prompt `[INST]` → Tokenización → Modelo LLaMA 2 → Res
 
 ## 🧪 Ejemplo de código
 
-```python id="code1"
+```python
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
@@ -63,7 +63,7 @@ print(preguntar("¿Qué es la inteligencia artificial?"))
 
 Para usar el modelo necesitas un token de HuggingFace:
 
-```python id="code2"
+```python
 from huggingface_hub import login
 login()
 ```
@@ -83,7 +83,7 @@ login()
 
 ## 🚀 Ejecución
 
-```bash id="code3"
+```bash
 git clone https://github.com/Jeison817/llama2-chatbot.git
 cd llama2-chatbot
 pip install -r requirements.txt
@@ -119,6 +119,6 @@ No es:
 ## 🙋‍♂️ Autor
 
 **Jeison Contreras**
+🎓 Matemática Pura + Ciencia de Datos
 🔗 GitHub: https://github.com/Jeison817
-
 
