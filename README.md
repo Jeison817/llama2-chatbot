@@ -125,7 +125,6 @@ No es:
 
 ## 🙋‍♂️ Autor
 
-**Jeison Contreras**
-🎓 Matemática Pura + Ciencia de Datos
-🔗 GitHub: https://github.com/Jeison817
+- **Fernando Miguel Alpiste Tuesta**
+- **Jeison Josimar Contreras Meza**
 
